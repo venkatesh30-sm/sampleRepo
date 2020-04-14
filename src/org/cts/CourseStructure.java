@@ -10,10 +10,16 @@ public class CourseStructure {
 	public void courseDuration() throws AWTException {
 	
 		System.out.println("course duration is 2 months");
+
+		System.out.println("hello world");
+		System.out.println("java course");
 		
 		Robot r=new Robot();
 		r.keyPress(KeyEvent.VK_ENTER);
 		r.keyRelease(KeyEvent.VK_ENTER);
+
+	
+
 
 	}
 	
